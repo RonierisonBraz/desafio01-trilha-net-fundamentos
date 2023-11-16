@@ -48,6 +48,7 @@ while (exibirMenu)
             break;
 
         default:
+        
             Console.WriteLine("Opção inválida");
             break;
     }
@@ -57,3 +58,4 @@ while (exibirMenu)
 }
 
 Console.WriteLine("O programa se encerrou");
+
